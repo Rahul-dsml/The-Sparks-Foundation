@@ -14,3 +14,8 @@ Achieved optimum number of clusters as 3 based on Silhouette score and Elbow Cur
 ## Task 3: Classification using Decision Tree Classifier
 To create the Decision Tree Classifier and visualize it graphically.
 Achieved the training accuracy of 96.4 % and Test accuracy of 97.4%
+
+### Domain: Computer Vision and IOT
+
+## Task 1: Colour Identification in Images
+To identify the colors present in the image.
